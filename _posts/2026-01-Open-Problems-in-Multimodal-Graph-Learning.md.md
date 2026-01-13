@@ -1,7 +1,7 @@
 ---
 title: "Open Problems in Multimodal Graph Learning"
 date: 2026-01-13
-permalink: /posts/open-problems-multimodal-graph-learning/
+permalink: /posts/2026/01/open-problems-multimodal-graph-learning/
 tags:
   - graph neural networks
   - multimodal learning
