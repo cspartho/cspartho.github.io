@@ -11,8 +11,6 @@ tags:
 
 ---
 
-## Open Problems in Multimodal Graph Learning
-
 Multimodal graph learning is an emerging research area that combines **graph-structured data** with **multiple data modalities** such as text, images, audio, and temporal signals. Many real-world systems—including recommender systems, social networks, document understanding pipelines, and knowledge graphs—naturally exhibit both **relational structure** and **multimodal information**.
 
 Despite recent progress, multimodal graph learning remains far from mature. Below, I outline several **fundamental open problems** that span theory, modeling, and practical deployment.
