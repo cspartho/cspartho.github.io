@@ -21,10 +21,16 @@ jobs:
       with:
         python-version: '3.9'   # Specify the Python version you need
 
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
     - name: Install dependencies
-      run: |
-        pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
-        pip install getorg --upgrade
+      run: pip install -r requirements.txt
 
     - name: Run Jupyter Notebook
       run: |
