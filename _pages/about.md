@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Partho Bala"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -39,7 +39,6 @@ In industry, I have worked on building **end-to-end machine learning pipelines**
 
 ---
 # 🔬 Research Interests
-
 - Natural Language Processing  
 - Graph Neural Networks  
 - Self-Supervised & Representation Learning  
@@ -48,7 +47,6 @@ In industry, I have worked on building **end-to-end machine learning pipelines**
 
 ---
 # 🎓 Education
-
 **Bachelor of Science in Computer Science and Engineering**  
 *2016 – 2019*  
 Department of Computer Science and Engineering  
@@ -56,7 +54,6 @@ Gopalganj Science and Technology University, Bangladesh
 
 ---
 # 📚 Publications
-
 - **Analyzing Employee Retention Factors using Machine Learning**  
   *Moshiur Rahman, Md Rashedul Islam, **Partho Bala**, Md. Abdus Sattar*  
   International Conference on Electrical, Computing, Communication and Sustainable Technologies (ICAECT), 2025  
